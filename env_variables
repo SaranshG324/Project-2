@@ -1,0 +1,6 @@
+GENAI_API_KEY = "AIzaSyDK2bPj-1zpqrn3PG21HQsFWnP7zJUyzGY"
+NGROK_AUTHTOKEN = "31PWvqASgPY8M3jvDEokepfim46_5ukj5fVGgPPjUowSCyoL2"
+
+pip install pyngrok
+
+ngrok config add-authtoken 31PWvqASgPY8M3jvDEokepfim46_5ukj5fVGgPPjUowSCyoL2
